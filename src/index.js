@@ -2,6 +2,7 @@ import _ from 'lodash';
 import printMe from './print.js';
 
 import './styles.css';
+import './styles2.css';
 
 function component() {
   let element = document.createElement('div');
